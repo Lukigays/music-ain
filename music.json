@@ -1,9 +1,13 @@
 {
-  "songs": [
+  "musicList": [
     "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(1).mp3",
     "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(2).mp3",
     "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(3).mp3",
     "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(4).mp3",
     "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(5).mp3",
+    "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(6).mp3",
+    "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(7).mp3",
+    "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(8).mp3",
+    "https://raw.githubusercontent.com/Lukigays/music-ain/main/audio%20(9).mp3"
   ]
 }
